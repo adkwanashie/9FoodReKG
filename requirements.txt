@@ -1,0 +1,50 @@
+# Streamlit UI + dashboard components
+streamlit==1.24.0
+streamlit-extras==0.3.5
+
+# Data science & plotting
+pandas==2.0.3
+numpy==1.26.4
+matplotlib==3.7.1
+seaborn==0.12.2
+altair==5.0.1
+scikit-learn==1.3.0
+
+# Text & NLP utilities
+textblob==0.17.1
+text2emotion==0.0.5
+spacy==3.6.0
+nltk==3.8.1
+sentence-transformers==2.2.2
+transformers==4.34.0
+openai==1.16.2
+rouge-score==0.1.2
+torch==2.7.1
+
+# Graph, KG, and semantic layers
+networkx==3.1
+# pygraphviz
+neo4j==5.12.0
+
+# Illama LLM as an alternative to Langchain
+llama-index
+
+# DB and auth
+sqlalchemy==2.0.29
+passlib==1.7.4
+psycopg2-binary==2.9.9
+
+# PDF + data ingestion
+PyPDF2==3.0.1
+pdf2image==1.16.2
+# camelot-py[cv]==0.10.1
+camelot-py==0.10.1
+kaggle==1.5.15
+requests==2.31.0
+glob2==0.7
+
+# Serialization & system
+orjson==3.9.5
+python-dotenv==1.0.0
+
+python-docx
