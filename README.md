@@ -7,7 +7,7 @@ A Streamlit application for the **Food Regulations Knowledge Graph**. This repos
 ### Requirements and Setup
 
 **Python version**  
-- Use **Python 3.10** or **3.11** for best compatibility.
+- Use **Python 3.13** or higher for best compatibility.
 
 **Create and activate a virtual environment**  
 ```bash
@@ -54,7 +54,7 @@ If you prefer to restore the KG directly from Neo4j Desktop using APOC (APOC plu
 
 ### Environment Variables
 
-Create a `.env` file in the project root with the following variables. **Fill in your actual values**:
+Locate the `.env` file in the project root with the following variables. **Fill in your actual values**:
 
 ```env
 # OpenAI
